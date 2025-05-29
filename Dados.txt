@@ -1,0 +1,3 @@
+239101746901614784;168.0;3456;Conta estudante;rita;18;6;2001;123;Utilizador@2928854b;ContaEstudante@27ae2fd0
+843581746628661120;230.0;2345;Conta estudante;rita;18;6;2001;123;Utilizador@2928854b;ContaEstudante@29176cc1
+249355023743614912;50.0;1234;Conta estudante;Pedro;30;8;2005;153;Utilizador@2f177a4b;ContaEstudante@4278a03f
