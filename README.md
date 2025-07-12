@@ -20,7 +20,7 @@ O **Bank-System** é uma aplicação de terminal desenvolvida em Java que simula
 - 💳 Bank-System
 O Bank-System é uma aplicação de terminal desenvolvida em Java que simula as operações básicas de um sistema bancário. O projeto tem como objetivo aplicar conceitos de Programação Orientada a Objetos (POO), como herança, encapsulamento e polimorfismo, através da criação e gestão de contas bancárias com persistência local em ficheiros de texto.
 
-🗂 **Estrutura do Projeto**
+## 🗂 **Estrutura do Projeto**
 Bank-System/
 
 src/ — Código-fonte Java
@@ -35,7 +35,7 @@ Dados.txt — Ficheiro que guarda os dados das contas
 logins.txt — Ficheiro que armazena os logins dos utilizadores
 
 
-🧪 **Como Correr**
+## 🧪 **Como Correr**
 
 Compila os ficheiros Java:
 javac src/*.java -d bin
@@ -45,7 +45,7 @@ java -cp bin App
 
 Certifica-te de que tens o Java instalado corretamente (java -version).
 
-🎯 **Objetivo do Projeto**
+## 🎯 **Objetivo do Projeto**
 
 Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em Java e Programação Orientada a Objetos (POO). Ao simular um sistema bancário real, ele serve como exercício prático para reforçar conceitos como:
 
@@ -55,7 +55,7 @@ Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em Java
 -Leitura e escrita em ficheiros
 -Lógica de autenticação e permissões
 
-📚 **Possíveis Melhorias Futuras**
+## 📚 **Possíveis Melhorias Futuras**
 
 • Interface gráfica com JavaFX ou Swing
 • Substituição de ficheiros .txt por base de dados (ex: SQLite ou MySQL)
@@ -63,5 +63,5 @@ Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em Java
 • Criptografia de passwords
 • Exportação de relatórios de fatura em PDF
 
-👤 **Autor**
+## 👤 **Autor**
 Desenvolvido por Leandro Costa
